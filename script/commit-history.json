@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b14e4f9b6a2a5763480815136f114dcaf05a0167",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:45:55.000Z",
       "message": "feat: test fail for sub",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/b14e4f9b6a2a5763480815136f114dcaf05a0167"
     },
     "stats": {
       "total": 5,
@@ -150,5 +150,24 @@
     "test_count": 6,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:46:50.000Z",
+      "message": "feat: test pass for sub",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
