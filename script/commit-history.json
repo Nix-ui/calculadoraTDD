@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2f15bfc49860c5d9ac1528de328dc777510d230a",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:37:10.000Z",
       "message": "feat: multiplicar 2 numeros cualquiera",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/2f15bfc49860c5d9ac1528de328dc777510d230a"
     },
     "stats": {
       "total": 7,
       "additions": 5,
       "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:39:02.000Z",
+      "message": "refactor: Cambio de nombres de archivo",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-08-26"
     },
     "coverage": 0,
