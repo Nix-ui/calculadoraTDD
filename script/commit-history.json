@@ -209,12 +209,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "d81c044930fb005ba7f0f35765d56be58dc47d69",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T14:08:54.000Z",
       "message": "feat: test fail for fizzbuzz",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/d81c044930fb005ba7f0f35765d56be58dc47d69"
     },
     "stats": {
       "total": 2,
@@ -226,5 +226,24 @@
     "test_count": 8,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:12:09.000Z",
+      "message": "feat: devuelve el numero 1 si no es multiplo de 3 y 5",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
