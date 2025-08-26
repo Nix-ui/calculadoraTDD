@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4fd36050ad2f22c1c5413bb093773a3b9f2a8aec",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:47:44.000Z",
       "message": "refactor: resta 2 numeros cualquiera",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/4fd36050ad2f22c1c5413bb093773a3b9f2a8aec"
     },
     "stats": {
       "total": 7,
@@ -188,5 +188,24 @@
     "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:01:19.000Z",
+      "message": "feat: test fail for fizzbuzz",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
