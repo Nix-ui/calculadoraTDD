@@ -95,12 +95,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "37817b93b0539f5e5fb63888a4c747c9410b21da",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:42:09.000Z",
       "message": "feat: test implemented success for division",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/37817b93b0539f5e5fb63888a4c747c9410b21da"
     },
     "stats": {
       "total": 7,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:44:06.000Z",
+      "message": "refactor: se dividen 2 numeros cualquiera",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

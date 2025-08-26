@@ -13,6 +13,9 @@ describe("Calculadora", () => {
   it("deberia dividir dos numeros",()=>{
     expect(dividir(20,5)).toEqual(4);
   });
+  it("deberia dividir 2 numeros cualquiera",()=>{
+    expect(dividir(16,2)).toEqual(8);
+  });
 });
 
 

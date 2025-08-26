@@ -4,8 +4,8 @@ function sumar(a, b) {
 function multiplicar(a,b){
   return a*b;
 }
-function dividir(){
-  return 4;
+function dividir(a,b){
+  return a/b;
 }
 
 export { sumar, multiplicar, dividir }; 
