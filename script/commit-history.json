@@ -228,12 +228,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "9f07033a26b5d35ccb761ec559ae4aec46742bcf",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T14:12:09.000Z",
       "message": "feat: devuelve el numero 1 si no es multiplo de 3 y 5",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/9f07033a26b5d35ccb761ec559ae4aec46742bcf"
     },
     "stats": {
       "total": 5,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:17:43.000Z",
+      "message": "feat: Convertir numero a cadena si no es multiplo de 5 o 3",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
