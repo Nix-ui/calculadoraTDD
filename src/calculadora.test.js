@@ -13,8 +13,11 @@ describe("Calculadora", () => {
   it("deberia dividir dos numeros",()=>{
     expect(dividir(20,5)).toEqual(4);
   });
-  it("deberia dividir 2 numeros cualquiera",()=>{
+  it("deberia dividir dos numeros cualquiera",()=>{
     expect(dividir(16,2)).toEqual(8);
+  });
+  it("deberia restar dos numeros",()=>{
+    expect(restar(10,5)).toEqual(5);
   });
 });
 
