@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e1c977b4d7a96728fd928230e8e24e7a2f1e68e1",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T14:17:43.000Z",
       "message": "feat: Convertir numero a cadena si no es multiplo de 5 o 3",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/e1c977b4d7a96728fd928230e8e24e7a2f1e68e1"
     },
     "stats": {
       "total": 7,
@@ -262,6 +262,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:19:52.000Z",
+      "message": "feat: Convertir numero 3 a a fizz",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

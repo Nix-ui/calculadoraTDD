@@ -1,5 +1,5 @@
 function fizzBuzz(number){
-    return  number.toString();
+    return  number == 3 ? "Fizz" : String(number);
 }
 
 export { fizzBuzz };
