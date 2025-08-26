@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8f2042b99e9a0bec8ba20ed0533bdf4f73bd1468",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T14:19:52.000Z",
       "message": "feat: Convertir numero 3 a a fizz",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/8f2042b99e9a0bec8ba20ed0533bdf4f73bd1468"
     },
     "stats": {
       "total": 5,
@@ -281,6 +281,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:21:39.000Z",
+      "message": "feat: convierte multiplos de 3 a fizz",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
