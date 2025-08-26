@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "067c75ce96010e58e6da9ec29cc7c0ac2349e4cb",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:35:14.000Z",
       "message": "feat: multiplicar 2 numeros",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/067c75ce96010e58e6da9ec29cc7c0ac2349e4cb"
     },
     "stats": {
       "total": 12,
@@ -36,5 +36,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:37:10.000Z",
+      "message": "feat: multiplicar 2 numeros cualquiera",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
