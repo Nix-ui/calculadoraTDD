@@ -7,8 +7,8 @@ function multiplicar(a,b){
 function dividir(a,b){
   return a/b;
 }
-function restar(){
-  return 5;
+function restar(a, b){
+  return a - b;
 }
 
 export { sumar, multiplicar, dividir , restar}; 

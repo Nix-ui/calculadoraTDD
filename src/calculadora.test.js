@@ -19,6 +19,9 @@ describe("Calculadora", () => {
   it("deberia restar dos numeros",()=>{
     expect(restar(10,5)).toEqual(5);
   });
+  it("deberia restar dos numeros cualquiera",()=>{
+    expect(restar(20,8)).toEqual(12);
+  });
 });
 
 
