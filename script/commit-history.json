@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "32735daddca95d2c7cf698b533c3b74464be693d",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:28:46.000Z",
       "message": "feat:Agregado de la libreria para testing",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/32735daddca95d2c7cf698b533c3b74464be693d"
     },
     "stats": {
       "total": 1,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:35:14.000Z",
+      "message": "feat: multiplicar 2 numeros",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 9,
+      "deletions": 3,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
