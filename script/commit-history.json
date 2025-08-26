@@ -190,17 +190,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "39479498e872f3c144b60c8f0036ec0c059d443a",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T14:01:19.000Z",
       "message": "feat: test fail for fizzbuzz",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/39479498e872f3c144b60c8f0036ec0c059d443a"
     },
     "stats": {
       "total": 7,
       "additions": 7,
       "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T14:08:54.000Z",
+      "message": "feat: test fail for fizzbuzz",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-08-26"
     },
     "coverage": 100,
