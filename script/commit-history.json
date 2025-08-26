@@ -57,12 +57,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "7ba72b2f101b7ddbdd2949fbd6691092a91394d9",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:39:02.000Z",
       "message": "refactor: Cambio de nombres de archivo",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/7ba72b2f101b7ddbdd2949fbd6691092a91394d9"
     },
     "stats": {
       "total": 2,
@@ -74,5 +74,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:41:03.000Z",
+      "message": "feat: test implemented fail for division",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
