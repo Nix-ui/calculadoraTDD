@@ -76,12 +76,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "380bead0f215de8fe6572d033259677b9edec1f8",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-26T13:41:03.000Z",
       "message": "feat: test implemented fail for division",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/380bead0f215de8fe6572d033259677b9edec1f8"
     },
     "stats": {
       "total": 5,
@@ -93,5 +93,24 @@
     "test_count": 4,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-26T13:42:09.000Z",
+      "message": "feat: test implemented success for division",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
