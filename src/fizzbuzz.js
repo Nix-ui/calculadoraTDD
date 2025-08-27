@@ -1,8 +1,5 @@
 function fizzBuzz(number){
-    let resultado = "";
-    if(number == 15) return "FizzBuzz";
-    if(number % 5 === 0) return resultado +="Buzz";
-    return  number % 3 === 0 ? "Fizz" : String(number);
+    return number % 3 === 0 ? (number % 5 === 0 ? "FizzBuzz" : "Fizz") : (number % 5 === 0 ? "Buzz" : String(number));
 }
 
 export { fizzBuzz };
