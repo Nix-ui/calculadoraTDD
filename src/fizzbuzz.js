@@ -1,5 +1,6 @@
 function fizzBuzz(number){
-    if(number ===5) return "Buzz";
+    let resultado = "";
+    if(number % 5 === 0) return resultado +="Buzz";
     return  number % 3 === 0 ? "Fizz" : String(number);
 }
 
