@@ -28,4 +28,7 @@ describe("FizzBuzz", () => {
     it("deberia devolver una cadena con los primeros 5 numeros convertidos con FizzBuzz",()=>{
         expect(generateFizzBuzzSequence(5)).toEqual("1,2,Fizz,4,Buzz");
     });
+    it("deberia devolver un array hasta el numero dado convirtido con FizzBuzz",()=>{
+        expect(generateFizzBuzzSequence(15)).toEqual("1,2,Fizz,4,Buzz,Fizz,7,8,Fizz,Buzz,11,Fizz,13,14,FizzBuzz");
+    });
 });
