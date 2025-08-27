@@ -361,12 +361,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "04e1806561eedff661c6ba62e0d97c23d472da41",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-27T04:25:27.000Z",
       "message": "feat: se convierte multiplos de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/04e1806561eedff661c6ba62e0d97c23d472da41"
     },
     "stats": {
       "total": 8,
@@ -376,6 +376,25 @@
     },
     "coverage": 100,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-27T04:30:31.000Z",
+      "message": "feat: devuelve un array de los 5 primeros numeros convertidos a fizzbuzz",
+      "url": "https://github.com/Nix-ui/calculadoraTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }

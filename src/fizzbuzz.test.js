@@ -1,4 +1,4 @@
-import { fizzBuzz } from "./fizzbuzz.js";
+import { fizzBuzz, generateFizzBuzzSequence } from "./fizzbuzz.js";
 
 describe("FizzBuzz", () => {
     it("deberia devolver el numero si no es multiplo de 3 o 5 ",()=>{
@@ -24,5 +24,8 @@ describe("FizzBuzz", () => {
     });
     it("deberia convertir cualquier multiplo de 3 y 5 a FizzBuzz",()=>{
         expect(fizzBuzz(30)).toEqual("FizzBuzz");
+    });
+    it("deberia devolver una cadena con los primeros 5 numeros convertidos con FizzBuzz",()=>{
+        expect(generateFizzBuzzSequence(5)).toEqual("1,2,Fizz,4,Buzz");
     });
 });
